@@ -22,12 +22,14 @@ Excel / CSV ファイルを指定フォルダに配置し、
 ※ Python の知識がなくても使用できることを想定しています。
 
 ## フォルダ構成
+```
 sales_batch/
 ├─ run.py # 売上集計ロジック
 ├─ run.bat # 実行用バッチ（1クリック実行）
 ├─ ui_streamlit.py # ローカルUI（任意）
 ├─ input/ # 入力データ
 └─ output/ # 集計結果
+```
 
 ## 技術スタック
 - Python 3.12
