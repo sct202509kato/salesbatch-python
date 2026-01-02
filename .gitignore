@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Output files
+output/*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db

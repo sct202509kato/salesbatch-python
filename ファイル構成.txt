@@ -1,0 +1,6 @@
+sales_batch/
+  run.py
+  run.bat   
+  ui_streamlit.py
+  input/
+  output/
